@@ -1,0 +1,4 @@
+ABC -- 08/03/2019
+Versión 1.0
+Aplicación para extraer las QL de un archivo de mandos.
+Crea una lista de indicaciones extraídas de un archivo de mandos. No se repiten y están ordenadas alfabéticamente.

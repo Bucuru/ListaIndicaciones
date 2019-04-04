@@ -1,0 +1,8 @@
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\obj\Debug\WindowsFormsApplication1.frmIndicaciones.resources
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\obj\Debug\ExtraerQLMandos.csproj.GenerateResource.Cache
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\bin\Debug\ExtraerQLMandos.exe
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\bin\Debug\ExtraerQLMandos.pdb
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\obj\Debug\ExtraerQLMandos.exe
+C:\Aplicaciones\ExtraerQLMandos\ExtraerQLMandos\obj\Debug\ExtraerQLMandos.pdb
